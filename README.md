@@ -1,1 +1,1 @@
-# Vegefoods-Django-Website
+# Vegefoods Django Website
